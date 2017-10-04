@@ -49,8 +49,7 @@ MODULES
 > Website.
 
 ![MathForJee (AN ONLINE SESSION BASED
-WEBSITE).png](./screenshots/image1.png){width="3.765150918635171in"
-height="3.015152012248469in"}
+WEBSITE).png](./screenshots/image1.png)
 
 -   Sign-Up Module
 
@@ -61,49 +60,40 @@ height="3.015152012248469in"}
 > Math and chemistry.
 
 ![MathForJee (AN ONLINE SESSION BASED WEBSITE)
-(1).png](./screenshots/image2.png){width="4.090908792650919in"
-height="4.204545056867891in"}
+(1).png](./screenshots/image2.png)
 
 -   Online-Quiz Module
 
 Choose to take a quiz for any subject and then select the topic to take
 a quiz.
 
-![](./screenshots/image3.png){width="4.628788276465442in"
-height="3.8939391951006126in"}
+![](./screenshots/image3.png)
 
 -   Update Password ![MathForJee (AN ONLINE SESSION BASED WEBSITE)
-    (4).png](./screenshots/image4.png){width="5.545454943132109in"
-    height="5.113636264216973in"}
+    (4).png](./screenshots/image4.png)
 
 SCREENSHOTS
 
 1\. Login Page
 
-![C:\\Users\\HP\\Desktop\\Capt.PNG](./screenshots/image5.png){width="6.040917541557305in"
-height="3.2121216097987753in"}
+![C:\\Users\\HP\\Desktop\\Capt.PNG](./screenshots/image5.png)
 
 2\. Sign Up Page
 
-![C:\\Users\\HP\\Desktop\\Care.PNG](./screenshots/image6.png){width="6.5in"
-height="3.4161679790026245in"}
+![C:\\Users\\HP\\Desktop\\Care.PNG](./screenshots/image6.png)
 
 3\. Home Page
 
-![C:\\Users\\HP\\Desktop\\Captue.PNG](./screenshots/image7.png){width="6.5in"
-height="3.4941994750656167in"}
+![C:\\Users\\HP\\Desktop\\Captue.PNG](./screenshots/image7.png)
 
 4\. Choose Subject
 
-![C:\\Users\\HP\\Desktop\\Cture.PNG](./screenshots/image8.png){width="6.5in"
-height="2.803688757655293in"}
+![C:\\Users\\HP\\Desktop\\Cture.PNG](./screenshots/image8.png)
 
 5\. Select Quiz
 
-![C:\\Users\\HP\\Desktop\\Capure.PNG](./screenshots/image9.png){width="6.5in"
-height="2.8067924321959756in"}
+![C:\\Users\\HP\\Desktop\\Capure.PNG](./screenshots/image9.png)
 
 6\. Quiz
 
-![C:\\Users\\HP\\Desktop\\Capture.PNG](./screenshots/image10.png){width="6.5in"
-height="2.8651913823272093in"}
+![C:\\Users\\HP\\Desktop\\Capture.PNG](./screenshots/image10.png)

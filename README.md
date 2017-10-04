@@ -32,7 +32,7 @@ with them directly. The objective of designing a site is to ensure that
 when the users open up the site they see the information in a format
 that is easy to read and relevant.
 
-<strong>Back-end:<strong> A back-end developer is a type of programmer who creates the
+<strong>Back-end:</strong> A back-end developer is a type of programmer who creates the
 logical back-end and core computational logic of a website, software or
 information system. The language used is PHP, also MySQL is an open
 source relational database management system (RDBMS) based on Structured
@@ -48,8 +48,7 @@ Query Language (SQL).
 > Physical Layer Of The System And More Importantly The Brain Of The
 > Website.
 
-![MathForJee (AN ONLINE SESSION BASED
-WEBSITE).png](./screenshots/image1.png)
+![](./screenshots/image1.png)
 
 <h3>-   Sign-Up Module</h3>
 
@@ -59,8 +58,7 @@ WEBSITE).png](./screenshots/image1.png)
 > can then login in to his account and take an online quiz for Physics,
 > Math and chemistry.
 
-![MathForJee (AN ONLINE SESSION BASED WEBSITE)
-(1).png](./screenshots/image2.png)
+![](./screenshots/image2.png)
 
 <h3>-   Online-Quiz Module</h3>
 
@@ -76,24 +74,24 @@ a quiz.
 
 <h3>1\. Login Page</h3>
 
-![C:\\Users\\HP\\Desktop\\Capt.PNG](./screenshots/image5.png)
+![](./screenshots/image5.png)
 
 <h3>2\. Sign Up Page</h3>
 
-![C:\\Users\\HP\\Desktop\\Care.PNG](./screenshots/image6.png)
+![](./screenshots/image6.png)
 
 <h3>3\. Home Page</h3>
 
-![C:\\Users\\HP\\Desktop\\Captue.PNG](./screenshots/image7.png)
+![](./screenshots/image7.png)
 
 <h3>4\. Choose Subject</h3>
 
-![C:\\Users\\HP\\Desktop\\Cture.PNG](./screenshots/image8.png)
+![](./screenshots/image8.png)
 
 <h3>5\. Select Quiz</h3>
 
-![C:\\Users\\HP\\Desktop\\Capure.PNG](./screenshots/image9.png)
+![](./screenshots/image9.png)
 
 <h3>6\. Quiz</h3>
 
-![C:\\Users\\HP\\Desktop\\Capture.PNG](./screenshots/image10.png)
+![](./screenshots/image10.png)
